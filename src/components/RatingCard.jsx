@@ -63,7 +63,7 @@ export default function RatingCard({ movie, initialRating = 0, onSubmit }) {
           <span className="text-orange-500 text-xl">★</span>
         </div>
 
-        <h1 className="text-white text-2xl font-bold mt-6">How did we do?</h1>
+        <h1 className="text-white text-2xl font-bold mt-6">Escolha uma nota</h1>
         <p className="text-slate-400 text-sm leading-6 mt-2">
           Deixe sua avaliação para {movie.title}. 
         </p>
